@@ -15,4 +15,4 @@ This the new version of the bot released on March 22, 2017.
 
 ### Add the bot to your server by using this link: [Invite](https://discordapp.com/oauth2/authorize?client_id=294242685831872512&permissions=706427688&scope=bot)
 
-For additional help, contact **Habchy#1665** on Discord or [@Habchy77](twitter.com/habchy77) on Twitter.
+For additional help, contact **Habchy#1665** on Discord or [@Habchy77](https://twitter.com/habchy77) on Twitter.
