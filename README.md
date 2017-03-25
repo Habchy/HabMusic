@@ -7,6 +7,8 @@ Thank You for using the MusicBot (HabMusic) made by Habchy!
 
 This the new version of the bot released on March 22, 2017.
 
+**Read the HabMusic Terms and Conditions here:** [Terms and Conditions](https://goo.gl/4q5hjk)
+
 **For the wiki home page please go to:** [Wiki](https://github.com/Habchy/HabMusic/wiki)
 
 **For a guide on how to use the bot please visit:** [Guide](https://github.com/Habchy/HabMusic/wiki/Guide)
