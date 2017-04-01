@@ -15,7 +15,7 @@ This the new version of the bot released on March 22, 2017.
 
 **Please feel free to report any requests or issues here:** [Issues](https://github.com/Habchy/HabMusic/issues)
 
-### Add the bot to your server by using this link: [Invite](https://discordapp.com/oauth2/authorize?client_id=294242685831872512&permissions=706427688&scope=bot)
+### Add the bot to your server by using this link: [Invite](https://discordapp.com/oauth2/authorize?client_id=294242685831872512&scope=bot&permissions=2146958463)
 
 ### Join my discord server by clicking here: [Join Discord](https://discord.me/habchy)
 
