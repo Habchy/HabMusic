@@ -20,5 +20,3 @@ This the new version of the bot released on March 22, 2017.
 ### Join my discord server by clicking here: [Join Discord](https://discord.me/habchy)
 
 For additional help, contact **Habchy#1665** on Discord or [@Habchy77](https://twitter.com/habchy77) on Twitter.
-
-asfdfsda
