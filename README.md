@@ -20,20 +20,3 @@ This the new version of the bot released on March 22, 2017.
 ### Join my discord server by clicking here: [Join Discord](https://discord.me/habchy)
 
 For additional help, contact **Habchy#1665** on Discord or [@Habchy77](https://twitter.com/habchy77) on Twitter.
-
-
-<script type="text/javascript" src="//cdn.jsdelivr.net/discord-widget/latest/discord-widget.min.js"></script>
-<script type="text/javascript">
-discordWidget.init({
-  serverId: '165619758820098050',
-  title: 'Habchy Discord Server',
-  join: true,
-  alphabetical: false,
-  theme: 'light',
-  hideChannels: ['Channel Name 1', 'Channel Name 2'],
-  showAllUsers: true,
-  allUsersDefaultState: true,
-  showNick: false
-});
-discordWidget.render();
-</script>
