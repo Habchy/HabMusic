@@ -3,12 +3,6 @@ The official GitHub for HabMusic.
 
 ![HabMusic Logo](https://i.imgur.com/B4CrHdG.png) **Welcome** ![HabMusic Logo](https://i.imgur.com/B4CrHdG.png)
 
-Thank You for using the MusicBot (HabMusic) made by Habchy!
-
-This the new version of the bot released on March 22, 2017.
-
-**Read the HabMusic Terms and Conditions here:** [Terms and Conditions](https://goo.gl/4q5hjk)
-
 **For the wiki home page please go to:** [Wiki](https://github.com/Habchy/HabMusic/wiki)
 
 **For a guide on how to use the bot please visit:** [Guide](https://github.com/Habchy/HabMusic/wiki/Guide)
@@ -20,3 +14,5 @@ This the new version of the bot released on March 22, 2017.
 ### Join my discord server by clicking here: [Join Discord](https://discord.me/habchy)
 
 For additional help, contact **Habchy#1665** on Discord or [@Habchy77](https://twitter.com/habchy77) on Twitter.
+
+Go give **Jagrosh** a star because he's awesome. [JMusic](https://github.com/jagrosh/MusicBot)
